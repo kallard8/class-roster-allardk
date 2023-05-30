@@ -1,7 +1,5 @@
 # Class Roster via our API data
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/class-roster-via-api"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
-
 ## What Is This? 
 Get, Show, and Style a Class Roster via our API data
 
@@ -17,7 +15,10 @@ Use API endpoint for the _Collection_ provided in class.
 ## Citations
 List your sources here
 
-[Font Share](https://www.fontshare.com/)
+[Font Share](https://www.fontshare.com/fonts/hind)
+
+[Favicon](https://freepngimg.com/png/1077-butterfly-png-image)
+
 
 ## Why Does This Exist? 
 Thre are many have a no-code CMS, and GUIs for designing the templates. AirTable (and many others) also have an API that is accessible as a _headless CMS_. 

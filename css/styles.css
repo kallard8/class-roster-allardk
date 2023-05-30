@@ -1,5 +1,7 @@
 /* My Styles */
 
+@import url('hind.css');
+
 .gallery {
     display: grid;
     grid-template-columns: repeat(4, 1fr);

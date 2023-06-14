@@ -2,15 +2,31 @@
 
 @import url('hind.css');
 
+.header{
+
+color: #AC8AE5;
+
+}
+
+body {
+    font-family: 'Hind-SemiBold';
+    font-size: larger;
+    text-align: center;
+    color: aliceblue;
+    margin: 10%;
+  }
+
 .gallery {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 2fr);
     grid-auto-rows: minmax(50px, auto);
     grid-gap: 10px;
 }
 
 .gallery figure {
-    background: gray;
+    background: #8492EA;
+    padding-top: 15%;
+    box-shadow: 10px 10px #AC8AE5;
 }
 
 .gallery img {
